@@ -8,52 +8,37 @@ redirect_from:
 ---
 
 {% include base_path %}
+You can download a pdf version of my CV [here](/files/CV.pdf)
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* Ph.D. in ISE, Virginia Tech, (Fall 2017 - Present)
+* Graduate Certificate in **Data Analytics** at Virginia Tech, 2019
+* M.Sc. in ISE, Virginia Tech, 2019
+* M.Sc. in ISE, Amirkabir University of Technology, 2015
+* B.Sc. in ISE, Amirkabir University of Technology, 2013
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Research Assistant (Spring 2020 - Present)
+  * Virginia Tech
+  * Supervisor: Dr James Kong
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Teaching Assistant (Fall 2017 - Fall 2019)
+  * Virginia Tech
+  
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Programming: Python, MATLAB, R, SQL, VBA
+* Professional: SPSS, VENSIM, ARENA, PRIMAVERA P6
+* Applications: Photoshop, LaTeX, Microsoft Word/PowerPoint/Excel/Visio
 
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
 Teaching
 ======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+I taught Engineering Economy Undergraduate Course at Virginia Tech on Summer 2019. I have also served as a teaching assisstant for several courses at Virginia Tech and Amirkabir University of Technology including **Engineering Economy, Deterministic Operation Research, Simulation, and Facility Plan and Location**.
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* I am currently Serving as this year's Vice president of INFORMS student chapter at VT. 
+
