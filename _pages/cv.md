@@ -13,10 +13,10 @@ You can download a pdf version of my CV [here](/files/CV.pdf)
 EDUCATION
 ======
 * **Doctor of Philosophy, Electrical Engineering** (May 2021)\
-      Virginia Tech, Blacksburg, VA\
+      Virginia Tech, Blacksburg, VA
       
 * **Master of Science, Semiconductor Electronics Engineering** (August 2015)\
-      University of Tehran, Tehran, Iran\
+      University of Tehran, Tehran, Iran
       
 * **Bachelor of Science, Electrical Engineering** (August 2013)\
       University of Tehran, Tehran, Iran
