@@ -28,12 +28,16 @@ SKILLS
 * Strong simulation and coding skills in Lumerical FDTD, MATLAB, C, and Python.
 * Strong hands-on skills in optics, fabrication and characterization of micro/nanostructures, and electronic circuit implementation.
   
-  
-Skills
+WORK EXPERIENCE
 ======
-* Programming: Python, MATLAB, R, SQL, VBA
-* Professional: SPSS, VENSIM, ARENA, PRIMAVERA P6
-* Applications: Photoshop, LaTeX, Microsoft Word/PowerPoint/Excel/Visio
+* **ECE Department at Virginia Tech**, Research Assistant in Nanophotonics (Aug 2016-present)
+* **Thin Film Lab at the University of Tehran**, Research Assistant in Nanoelectronics (Aug 2013-Aug 2016)
+* **ECE Department at Virginia Tech**, Instructor:
+  * -	Optoelectronics Lab (Springs of 2018, 2019, and 2020), Electronics/Networks Lab II (Spring 2017).
+* **ECE Department at Virginia Tech**, Teaching Assistant:
+  * Microwave & RF engineering course and lab (Falls of 2019 and 2020), Intro to Optoelectronics (Springs of 2018 and 2020), Antennas II (Spring 2020), Physical Electronics (Fall 2020), and Electric Circuit Analysis Lab (Fall 2019).
+* **ECE Department at the University of Tehran**, Teaching Assistant (2011-2016):
+  * Nanoelectronics and Nanotechnology, Theory and Technology of Semiconductor Devices, Physics of Electronic Devices, Electronics I, Electrical Circuits II, and Power System Analysis I.
 
 Teaching
 ======
