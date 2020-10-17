@@ -68,15 +68,30 @@ PUBLICATIONS
 TEACHING EXPERIENCE
 ======
 * **ECE Department at Virginia Tech**, Instructor:
-  * Optoelectronics Lab (Springs of 2018, 2019, and 2020), Electronics/Networks Lab II (Spring 2017).
+  * Optoelectronics Lab (Springs of 2018, 2019, and 2020), 
+  * Electronics/Networks Lab II (Spring 2017).
 * **ECE Department at Virginia Tech**, Teaching Assistant:
-  * Microwave & RF engineering course and lab (Falls of 2019 and 2020), Intro to Optoelectronics (Springs of 2018 and 2020), Antennas II (Spring 2020), Physical Electronics (Fall 2020), and Electric Circuit Analysis Lab (Fall 2019).
+  * Microwave & RF engineering course and lab (Falls of 2019 and 2020), 
+  * Intro to Optoelectronics (Springs of 2018 and 2020)
+  * Antennas II (Spring 2020), 
+  * Physical Electronics (Fall 2020)
+  * Electric Circuit Analysis Lab (Fall 2019).
 * **ECE Department at the University of Tehran**, Teaching Assistant (2011-2016):
-  * Nanoelectronics and Nanotechnology, Theory and Technology of Semiconductor Devices, Physics of Electronic Devices, Electronics I, Electrical Circuits II, and Power System Analysis I.
+  * Nanoelectronics and Nanotechnology
+  * Theory and Technology of Semiconductor Devices
+  * Physics of Electronic Devices
+  * Electronics I
+  * Electrical Circuits II
+  * Power System Analysis I
+  * Electrical Circuits Lab
   
 LEADERSHIP AND ACTIVITIES
 ======
-* Board member of Virginia Tech University Student Leadership Awards (Aug 2018-May 2019), advisor of the Iranian Society at Virginia Tech with about 200 members (Aug 2018-May 2019), member of the Virginia Tech men choir (Fall 2019), president of the Iranian Society at Virginia Tech (Aug 2017-Aug 2018).
-*	Semi-professional chess player at Iran national level (2001-2009), gained a Karate black belt (Nov 2006).
+* Board member of Virginia Tech University Student Leadership Awards (Aug 2018-May 2019)
+* Advisor of the Iranian Society at Virginia Tech with about 200 members (Aug 2018-May 2019)
+* Member of the Virginia Tech men choir (Fall 2019)
+* president of the Iranian Society at Virginia Tech (Aug 2017-Aug 2018).
+*	Semi-professional chess player at Iran national level (2001-2009)
+* Gained a Karate black belt (Nov 2006).
  
 
