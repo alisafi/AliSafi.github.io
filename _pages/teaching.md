@@ -20,4 +20,5 @@ author_profile: true
   * Physics of Electronic Devices
   * Electronics I
   * Electrical Circuits II
-  * Power System Analysis I.
+  * Power System Analysis I
+  * Electrical Circuits Lab
