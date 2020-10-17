@@ -22,14 +22,11 @@ EDUCATION
       University of Tehran, Tehran, Iran\
       <br/>
 
-Work experience
+SKILLS
 ======
-* Research Assistant (Spring 2020 - Present)
-  * Virginia Tech
-  * Supervisor: Dr James Kong
-
-* Teaching Assistant (Fall 2017 - Fall 2019)
-  * Virginia Tech
+* Robust fundamental knowledgebase in photonics and optics, optoelectronics, electromagnetics, solid-state physics, electronics, mathematics, and data analytics.
+* Strong simulation and coding skills in Lumerical FDTD, MATLAB, C, and Python.
+* Strong hands-on skills in optics, fabrication and characterization of micro/nanostructures, and electronic circuit implementation.
   
   
 Skills
