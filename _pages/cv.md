@@ -17,11 +17,11 @@ Education
 * M.Sc. in ISE, Virginia Tech, 2019
 * M.Sc. in ISE, Amirkabir University of Technology, 2015
 * B.Sc. in ISE, Amirkabir University of Technology, 2013
-*Doctor of Philosophy, Electrical Engineering (May 2021)
+Doctor of Philosophy, Electrical Engineering (May 2021)<br/>
       Virginia Tech, Blacksburg, VA
-*Master of Science, Semiconductor Electronics Engineering (August 2015)
+Master of Science, Semiconductor Electronics Engineering (August 2015)<br/>
       University of Tehran, Tehran, Iran      
-*Bachelor of Science, Electrical Engineering (August 2013)
+Bachelor of Science, Electrical Engineering (August 2013)<br/>
       University of Tehran, Tehran, Iran
 
 
