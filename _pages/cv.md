@@ -33,7 +33,7 @@ WORK EXPERIENCE
 * **ECE Department at Virginia Tech**, Research Assistant in Nanophotonics (Aug 2016-present)
 * **Thin Film Lab at the University of Tehran**, Research Assistant in Nanoelectronics (Aug 2013-Aug 2016)
 * **ECE Department at Virginia Tech**, Instructor:
-  * -	Optoelectronics Lab (Springs of 2018, 2019, and 2020), Electronics/Networks Lab II (Spring 2017).
+  * Optoelectronics Lab (Springs of 2018, 2019, and 2020), Electronics/Networks Lab II (Spring 2017).
 * **ECE Department at Virginia Tech**, Teaching Assistant:
   * Microwave & RF engineering course and lab (Falls of 2019 and 2020), Intro to Optoelectronics (Springs of 2018 and 2020), Antennas II (Spring 2020), Physical Electronics (Fall 2020), and Electric Circuit Analysis Lab (Fall 2019).
 * **ECE Department at the University of Tehran**, Teaching Assistant (2011-2016):
