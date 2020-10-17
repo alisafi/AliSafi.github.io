@@ -12,11 +12,18 @@ You can download a pdf version of my CV [here](/files/CV.pdf)
 
 Education
 ======
-* Ph.D. in ISE, Virginia Tech, (Fall 2017 - Present)
+* Doctor of Philosophy, Electrical Engineering  (Fall 2017 - Present)
 * Graduate Certificate in **Data Analytics** at Virginia Tech, 2019
 * M.Sc. in ISE, Virginia Tech, 2019
 * M.Sc. in ISE, Amirkabir University of Technology, 2015
 * B.Sc. in ISE, Amirkabir University of Technology, 2013
+*Doctor of Philosophy, Electrical Engineering (May 2021)
+      Virginia Tech, Blacksburg, VA
+*Master of Science, Semiconductor Electronics Engineering (August 2015)
+      University of Tehran, Tehran, Iran      
+*Bachelor of Science, Electrical Engineering (August 2013)
+      University of Tehran, Tehran, Iran
+
 
 Work experience
 ======
