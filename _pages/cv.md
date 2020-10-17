@@ -19,7 +19,7 @@ EDUCATION
       University of Tehran, Tehran, Iran\
       \
 **Bachelor of Science, Electrical Engineering** (August 2013)\
-      University of Tehran, Tehran, Iran\
+      University of Tehran, Tehran, Iran
       <br/>
 
 SKILLS
