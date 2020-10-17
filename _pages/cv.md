@@ -7,9 +7,6 @@ redirect_from:
   - /resume
 ---
 
-{% include base_path %}
-You can download a pdf version of my CV [here](/files/CV.pdf)
-
 EDUCATION
 ======
 * **Doctor of Philosophy, Electrical Engineering** (May 2021)\
