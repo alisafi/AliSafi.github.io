@@ -12,7 +12,7 @@ You can find all my papers on my [Google Scholar profile](https://scholar.google
 JOURNAL PAPERS
 ---------------------
 
-**Safiabadi Tali S**Safiabadi Tali S, Zhou W. Multiresonant plasmonics with spatial mode overlap: overview and outlook. Nanophotonics. 2019 Jul 11;8(7):1199-225. [[Nanophotonics](https://www.degruyter.com/view/journals/nanoph/8/7/article-p1199.xml)]
+**Safiabadi Tali S**, Zhou W. Multiresonant plasmonics with spatial mode overlap: overview and outlook. Nanophotonics. 2019 Jul 11;8(7):1199-225. [[Nanophotonics](https://www.degruyter.com/view/journals/nanoph/8/7/article-p1199.xml)]
 
 **Safiabadi Tali S**, Soleimani-Amiri S, Sanaee Z, Mohajerzadeh S. Nitrogen-doped amorphous carbon-silicon core-shell structures for high-power supercapacitor electrodes. Scientific Reports. 2017 Feb 10;7(1):1-3. [[Nature Scientific Reports](https://www.nature.com/articles/srep42425/)]
 
