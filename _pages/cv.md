@@ -46,7 +46,7 @@ WORK EXPERIENCE
   *	Designed and built a glove box and a test cell for Li-ion battery tests in a teamwork (May 2014).
 
 
-Teaching
+Teaching EXPERIENCE
 ======
 * **ECE Department at Virginia Tech**, Instructor:
   * Optoelectronics Lab (Springs of 2018, 2019, and 2020), Electronics/Networks Lab II (Spring 2017).
