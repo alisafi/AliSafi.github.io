@@ -34,17 +34,17 @@ Qian Y, **Safiabadi Tali S** (co-first author), Mejia E, Zhou W. Fixed-size doub
 CONFERENCE PAPERS
 ---------------------
 
-**Safiabadi Tali S**, Zhou W. Conductive Gap-Plasmon Nanocavity. Laser Science 2018 Sep 16 (pp. JTu2A-58). Optical Society of America. [[IEEE Xplore](https://ieeexplore.ieee.org/abstract/document/9013341)] [[arXiv](https://arxiv.org/abs/1908.09064)] [[Code](https://github.com/mbanagar/SRWP-Drones)]
+**Safiabadi Tali S**, Zhou W. Conductive Gap-Plasmon Nanocavity. Laser Science 2018 Sep 16 (pp. JTu2A-58). Optical Society of America. [[Laser Science](https://www.osapublishing.org/abstract.cfm?uri=ls-2018-JTu2A.58)]
 
-**Safiabadi Tali S**, Zhou W. Multi-resonant optical nanocavities by out-of-plane magnetic plasmon hybridization. Frontiers in Optics 2018 Sep 16 (pp. JTu3A-53). Optical Society of America. [[IEEE Xplore](https://ieeexplore.ieee.org/abstract/document/9013645)] [[arXiv](https://arxiv.org/abs/1905.00972)]
+**Safiabadi Tali S**, Zhou W. Multi-resonant optical nanocavities by out-of-plane magnetic plasmon hybridization. Frontiers in Optics 2018 Sep 16 (pp. JTu3A-53). Optical Society of America. [[Frontiers in Optics](https://www.osapublishing.org/abstract.cfm?uri=FiO-2018-JTu3A.53)]
 
-**Safiabadi Tali S**, Zhou W. Magnetic plasmon hybridization in vertically stacked double-gap nanocavities. 2018 Conference on Lasers and Electro-Optics (CLEO) 2018 May 13 (pp. 1-2). IEEE. [[IEEE Xplore](https://ieeexplore.ieee.org/abstract/document/7503878)]
+**Safiabadi Tali S**, Zhou W. Magnetic plasmon hybridization in vertically stacked double-gap nanocavities. 2018 Conference on Lasers and Electro-Optics (CLEO) 2018 May 13 (pp. 1-2). IEEE. [[CLEO](https://ieeexplore.ieee.org/abstract/document/8426746)]
 
-**Safiabadi Tali S**, Song J, Nam W, Zhou W. Multiresonant Nanolaminate Plasmonic Metamaterials with Spatial Mode Overlap. 2020 Conference on Lasers and Electro-Optics (CLEO) 2020 May 10 (pp. 1-2). IEEE. [[IEEE Xplore](https://ieeexplore.ieee.org/abstract/document/7503878)]
+**Safiabadi Tali S**, Song J, Nam W, Zhou W. Multiresonant Nanolaminate Plasmonic Metamaterials with Spatial Mode Overlap. 2020 Conference on Lasers and Electro-Optics (CLEO) 2020 May 10 (pp. 1-2). IEEE. [[CLEO](https://ieeexplore.ieee.org/abstract/document/9192713)]
 
-**Safiabadi Tali S**, Zhou W. Black-box coupled-mode theory: analysis of loading effects in optical interactions between nanoresonators. Frontiers in Optics 2020 Sep 16. Optical Society of America. [[IEEE Xplore](https://ieeexplore.ieee.org/abstract/document/7503878)]
+**Safiabadi Tali S**, Zhou W. Black-box coupled-mode theory: analysis of loading effects in optical interactions between nanoresonators. Frontiers in Optics 2020 Sep 16. Optical Society of America.
 	
-Nam W, Ren X, **Safiabadi Tali S**, Ghassemi P, Kim I, Agah M, Zhou W. RI-Insensitive Surface-enhanced Raman Spectroscopy (SERS) for Label-free Profiling and Classification of Living Cancer Cells. CLEO: Science and Innovations 2020 May 10 (pp. STh4R-4). Optical Society of America.
+Nam W, Ren X, **Safiabadi Tali S**, Ghassemi P, Kim I, Agah M, Zhou W. RI-Insensitive Surface-enhanced Raman Spectroscopy (SERS) for Label-free Profiling and Classification of Living Cancer Cells. CLEO: Science and Innovations 2020 May 10 (pp. STh4R-4). Optical Society of America. [[CLEO](https://www.osapublishing.org/abstract.cfm?uri=CLEO_SI-2020-STh4R.4)]
 
 
 
