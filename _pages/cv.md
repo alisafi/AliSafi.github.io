@@ -32,7 +32,7 @@ WORK EXPERIENCE
 ======
 * **ECE Department at Virginia Tech**, Research Assistant in Nanophotonics (Aug 2016-present)
   *	Designed, fabricated, and analyzed hybrid plasmonic-photonic metamaterials to induce directional and enhanced non-linear emission from metals for ultrafast sensing applications (Oct 2020). 
-	* Designed, fabricated, and analyzed metal-insulator-metal (MIM) multiresonant plasmonic metamaterials for broadband field enhancement and perfect light absorption in a theoretical-experimental work (Jul 2020). 
+  * Designed, fabricated, and analyzed metal-insulator-metal (MIM) multiresonant plasmonic metamaterials for broadband field enhancement and perfect light absorption in a theoretical-experimental work (Jul 2020). 
   * Developed the Black-Box Coupled-Mode Theory, a novel analysis framework to design and understand the dynamics in electromagnetic resonator systems (May 2020).
   * Developed the Ultrafast Optics lab; Determined, negotiated, ordered and setup the required equipment such as Ti:Sapphire laser, Optical Parametric Oscillator, etc. in a team of two graduate students (Feb 2020).
   *	Classified and analyzed the different possible strategies to create multiresonant plasmonic systems with spatial mode overlap for the first time (Jun 2019).
