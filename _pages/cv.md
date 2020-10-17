@@ -19,8 +19,8 @@ EDUCATION
       University of Tehran, Tehran, Iran\
       \
 **Bachelor of Science, Electrical Engineering** (August 2013)\
-      University of Tehran, Tehran, Iran <br/>
-      \
+      University of Tehran, Tehran, Iran\
+      <br/>
 
 Work experience
 ======
